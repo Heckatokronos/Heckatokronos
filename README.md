@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Vladislav
 #### I am React Front-end Developer
-Work experience 1.5 years
+Work experience 3 years
 
 Skills: React / Redux / TypeScript
 
