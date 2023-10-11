@@ -2,7 +2,7 @@
 #### I am Middle React Front-end Developer
 Work experience 3 years
 
-Skills: React / Redux / TypeScript
+Skills: ReactJs / Next.Js / Redux / TypeScript
 
 - 🔭 I’m currently working on my projects 
 - 📫 How to reach me: @Heckatokronos in telegram 
