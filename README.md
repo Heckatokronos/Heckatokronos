@@ -2,7 +2,8 @@
 #### I am React Front-end Developer
 Work experience 3 years
 
-Skills: ReactJs / Next.Js / Redux / TypeScript
+Front-end skills: ReactJs / Next.Js / Redux / TypeScript
+Back-end skills: NestJs / GraphQL / PostgreSQL
 
 - 🔭 I’m currently working on my projects 
 - 📫 How to reach me: @Heckatokronos in telegram 
