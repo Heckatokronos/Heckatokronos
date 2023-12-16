@@ -6,6 +6,5 @@ _____________________________________________________________
 - Back-end skills: NestJs / GraphQL / PostgreSQL
 _____________________________________________________________
 - 🔭 I’m currently working on my projects 
-- 📫 How to reach me: @Heckatokronos in telegram 
 - 😄 Pronouns: Dude what? 
 - ⚡ Fun fact: I didn't know what to write here 
